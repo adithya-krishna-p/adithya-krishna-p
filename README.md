@@ -1,14 +1,14 @@
 <!-- Intro -->
 <h3 align="center">
   <samp> Hey there, I am
-    <b><a target="_blank" href="https://www.linkedin.com/in/asifxohd9207850084/">Nibin M</a></b>
+    <b><a target="_blank" href="https://www.linkedin.com/in/adithya-krishnan-p/">Adithyakrishna.p</a></b>
   </samp>
 </h3>
 
 <p align="center">
   <samp>
     <br>
-    I'm a Python full stack developer based in <b>India</b>, proficient in crafting dynamic web applications from front-end to back-end. Passionate about leveraging technology to drive business growth and user engagement
+    I'm Adithyakrishna.p, a Full stack stack developer. I'm currently focused on the Python full stack, with strong knowledge in Python ,JavaScript, Reactjs, and mysql.
     <br><br>
   </samp>
 </p>
@@ -17,10 +17,10 @@
 <!--   <a href="https://asifxohd.github.io/portfolio-website/" target="blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio Website" />
   </a>&nbsp;&nbsp; -->
-  <a href="www.linkedin.com/in/nibin-m-9ab57317b" target="_blank">
+  <a href="https://www.linkedin.com/in/adithya-krishnan-p/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nibinmanikandan?utm_source=qr&igsh=azhrNHI5a2wxazB6" target="_blank">
+  <a href="https://www.linkedin.com/in/adithya-krishnan-p/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -29,7 +29,9 @@
 ## About Me
 
 <p>  
-  I am a skilled full stack web application developer based in India, specializing in Python development. With a strong foundation in both front-end and back-end technologies, I excel in crafting dynamic and responsive web applications that meet the unique needs of clients and users. My expertise spans across the entire development lifecycle, from conceptualization and design to implementation and deployment. I am passionate about leveraging the latest tools and frameworks to deliver high-quality, scalable solutions that drive business growth and user engagement. With a keen eye for detail and a commitment to excellence, I strive to continuously enhance my skills and stay updated with the ever-evolving landscape of web development.
+ I'm Adithyakrishna.p, a Full stack stack developer. I'm currently focused on the Python full stack, with strong knowledge in Python ,JavaScript, Reactjs, and mysql.
+
+am confident that my dedication and constant learning will pave the way for success in the technology industry. I am looking forward to the challenges ahead and the opportunities I will have to contribute to the industry.
 </p>
 
 <!-- Technologies and Tools -->
