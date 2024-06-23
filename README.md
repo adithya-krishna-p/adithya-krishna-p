@@ -8,7 +8,7 @@
 <p align="center">
   <samp>
     <br>
-    I'm Adithyakrishna.p, a Full stack stack developer. I'm currently focused on the Python full stack, with strong knowledge in Python ,JavaScript, Reactjs, and mysql.
+    I'm Adithyakrishna.p, a Full stack developer. I'm currently focused on the Python full stack, with strong knowledge in Python ,JavaScript, Reactjs, Django and mysql.
     <br><br>
   </samp>
 </p>
@@ -29,7 +29,7 @@
 ## About Me
 
 <p>  
- I'm Adithyakrishna.p, a Full stack stack developer. I'm currently focused on the Python full stack, with strong knowledge in Python ,JavaScript, Reactjs, and mysql.
+ I'm Adithyakrishna.p, a Full stack developer. I'm currently focused on the Python full stack, with strong knowledge in Python ,JavaScript, Reactjs, and mysql.
 
 am confident that my dedication and constant learning will pave the way for success in the technology industry. I am looking forward to the challenges ahead and the opportunities I will have to contribute to the industry.
 </p>
