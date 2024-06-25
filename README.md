@@ -53,6 +53,7 @@ am confident that my dedication and constant learning will pave the way for succ
   <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django ORM" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg" alt="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" alt="PostgreSQL" />&nbsp;&nbsp;
 </p>
 </p>
