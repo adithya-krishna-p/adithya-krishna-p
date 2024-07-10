@@ -8,7 +8,8 @@
 <p align="center">
   <samp>
     <br>
-    I'm Adithyakrishna.p, a Full stack developer. I'm currently focused on the Python full stack, Reactnative Appdev with strong knowledge in Python ,JavaScript, Reactjs, Django ,Reactnative and mysql.
+    I'm Adithyakrishna.p, a self-taught full-stack web developer, passionate about working on interesting projects, and excited to learn new technologies.
+    I'm currently focused on the Python full stack, Reactnative Appdev with strong knowledge in Python ,JavaScript, Reactjs, Django ,Reactnative and mysql.
     <br><br>
   </samp>
 </p>
