@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<!-- About Section -->
+<!-- About Section
 ## About Me
 
 <p>  
@@ -35,7 +35,7 @@ am confident that my dedication and constant learning will pave the way for succ
 </p>
 
 <!-- Technologies and Tools -->
-## Technologies and Tools
+<!-- ## Technologies and Tools
 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;&nbsp;
@@ -55,4 +55,4 @@ am confident that my dedication and constant learning will pave the way for succ
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://miro.medium.com/v2/format:webp/1*AjesIvV-kkwk6LLvNf1t4A.png" height:20px; width:20px;alt="PostgreSQL" />&nbsp;&nbsp;
 </p>
-</p>
+</p> --> -->
