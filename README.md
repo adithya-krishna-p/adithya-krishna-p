@@ -8,7 +8,8 @@
 <p align="center">
   <samp>
     <br>
-    I'm Adithyakrishna.p, a Full stack developer. I'm currently focused on the Python full stack, with strong knowledge in Python ,JavaScript, Reactjs, Django and mysql.
+    I'm Adithyakrishna.p, a self-taught full-stack web developer, passionate about working on interesting projects, and excited to learn new technologies.
+    I'm currently focused on the Python full stack, Reactnative Appdev with strong knowledge in Python ,JavaScript, Reactjs, Django ,Reactnative and mysql.
     <br><br>
   </samp>
 </p>
@@ -38,6 +39,7 @@ am confident that my dedication and constant learning will pave the way for succ
 <!-- ## Technologies and Tools
 
 <p>
+<!--   <img src="https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg" alt="PostgreSQL" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />&nbsp;&nbsp;
@@ -47,12 +49,12 @@ am confident that my dedication and constant learning will pave the way for succ
   <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Django_Rest_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django ORM" />&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/Django_Rest_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Rest Framework" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django ORM" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://miro.medium.com/v2/format:webp/1*AjesIvV-kkwk6LLvNf1t4A.png" height:20px; width:20px;alt="PostgreSQL" />&nbsp;&nbsp;
+<!--   <img src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" alt="PostgreSQL" />&nbsp;&nbsp; -->
 </p>
 </p> --> -->
