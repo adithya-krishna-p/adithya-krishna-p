@@ -5,6 +5,7 @@
   </samp>
 </h3>
 
+<!--
 <p align="center">
   <samp>
     <br>
@@ -12,7 +13,8 @@
     I'm currently focused on the Python full stack, Reactnative Appdev with strong knowledge in Python ,JavaScript, Reactjs, Django ,Reactnative and mysql.
     <br><br>
   </samp>
-</p>
+</p> -->
+
 
 <p align="center">
 <!--   <a href="https://asifxohd.github.io/portfolio-website/" target="blank">
